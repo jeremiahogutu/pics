@@ -9,6 +9,10 @@ class App extends Component {
         images: []
     };
 
+    componentDidMount() {
+        this.onSearchSubmit('lamborghini')
+    }
+
     onSearchSubmit = async (term) => {
         const response = await
             UnSplash.get('/search/photos', {
