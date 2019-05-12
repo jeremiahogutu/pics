@@ -20,7 +20,9 @@ class SearchBar extends Component {
                         <input
                             type="text"
                             value={this.state.term}
-                            onChange={(e) => this.setState({term: e.target.value }) }/>
+                            onChange={(e) => this.setState({term: e.target.value }) }
+                            placeholder={'Type in a search term and press enter to search'}
+                        />
                     </div>
                 </form>
             </div>
