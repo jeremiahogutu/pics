@@ -1,6 +1,6 @@
 # Image Search
 
-[![CircleCI](https://img.shields.io/circleci/build/github/jeremiahogutu/circle-ci-react.svg)](https://circleci.com/gh/jeremiahogutu/pics) [![Maintainability](https://api.codeclimate.com/v1/badges/236360db6a18e8d6a15e/maintainability)](https://codeclimate.com/github/jeremiahogutu/pics/maintainability) [![Release](https://img.shields.io/github/v/release/jeremiahogutu/pics)](https://github.com/jeremiahogutu/pics/releases) [![Licence](https://img.shields.io/npm/l/react)](https://opensource.org/licenses/MIT) [![Uptime](https://img.shields.io/uptimerobot/ratio/m783422332-a5c79bf4e211c80549fec00a)](https://stats.uptimerobot.com/OEL7kiprVJ) [![Status](https://img.shields.io/uptimerobot/status/m783422332-a5c79bf4e211c80549fec00a)](https://stats.uptimerobot.com/OEL7kiprVJ)
+[![CircleCI](https://img.shields.io/circleci/build/github/jeremiahogutu/circle-ci-react.svg)](https://circleci.com/gh/jeremiahogutu/pics) [![Maintainability](https://api.codeclimate.com/v1/badges/236360db6a18e8d6a15e/maintainability)](https://codeclimate.com/github/jeremiahogutu/pics/maintainability) [![Release](https://img.shields.io/github/v/release/jeremiahogutu/pics)](https://github.com/jeremiahogutu/pics/releases) [![Licence](https://img.shields.io/npm/l/react)](https://opensource.org/licenses/MIT) 
 
 Image search app using unsplash api
 
@@ -13,6 +13,8 @@ Image search app using unsplash api
 * Enter a youtube video you want to search.
 
 ## Live Url
+[![Uptime](https://img.shields.io/uptimerobot/ratio/m783422332-a5c79bf4e211c80549fec00a)](https://stats.uptimerobot.com/OEL7kiprVJ) [![Status](https://img.shields.io/uptimerobot/status/m783422332-a5c79bf4e211c80549fec00a)](https://stats.uptimerobot.com/OEL7kiprVJ)
+
 https://picsearch.jeremiahogutu.ca/
 
 ## Live Snapshot
